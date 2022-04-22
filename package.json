@@ -10,7 +10,9 @@
   "author": "diana",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.3.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.25"
